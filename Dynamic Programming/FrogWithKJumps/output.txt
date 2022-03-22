@@ -1,0 +1,6 @@
+Heights array : 10 20 30 10 
+Minimum enegery required for fog to jump from 1 to 4 within 3 steps is : 0
+----------------------------------------------
+Heights array : 10 50 40 60 
+Minimum enegery required for fog to jump from 1 to 4 within 2 steps is : 50
+----------------------------------------------
